@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1570118084 source:c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1570110864 c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\empleados.h
+
+1570115230 source:c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1570114501 source:c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\empleados.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<conio.h>
+	"empleados.h"
+	"utn.h"
+
+1570107237 c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\utn.h
+
+1570118068 c:\users\nehl\google drive\dev\utn\c\new folder\tp_2\arrayemployees.h
+

@@ -1,0 +1,4 @@
+C:\Users\Nehl\source\repos\interface\interface\obj\Release\interface.csprojAssemblyReference.cache
+C:\Users\Nehl\source\repos\interface\interface\obj\Release\interface.Form1.resources
+C:\Users\Nehl\source\repos\interface\interface\obj\Release\interface.Properties.Resources.resources
+C:\Users\Nehl\source\repos\interface\interface\obj\Release\interface.csproj.GenerateResource.cache
