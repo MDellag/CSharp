@@ -1,0 +1,6 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\bin\Debug\Ejercicio_04.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\bin\Debug\Ejercicio_04.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\bin\Debug\Ejercicio_04.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\obj\Debug\Ejercicio_04.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\obj\Debug\Ejercicio_04.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_01\Ejercicio_04\obj\Debug\Ejercicio_04.pdb

@@ -1,0 +1,5 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_02\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Ejercicio_02\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
