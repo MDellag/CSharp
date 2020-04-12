@@ -1,0 +1,15 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Ejercicio_23.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Ejercicio_23.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Ejercicio_23.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.Properties.Resources.resources
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.GenerateResource.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.Form1.resources
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Moneda.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Moneda.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\obj\Debug\Ejercicio_23.csproj.CopyComplete
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Functions.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Forms\Ejercicio_23\bin\Debug\Functions.pdb
