@@ -1,0 +1,6 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\obj\Debug\EscalaTemperatura.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\obj\Debug\EscalaTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\bin\Debug\EscalaTemperatura.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\bin\Debug\EscalaTemperatura.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\obj\Debug\EscalaTemperatura.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\EscalaTemperatura\obj\Debug\EscalaTemperatura.pdb

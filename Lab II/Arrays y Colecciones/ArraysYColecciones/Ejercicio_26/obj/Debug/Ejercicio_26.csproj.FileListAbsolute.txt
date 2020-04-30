@@ -1,0 +1,7 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\bin\Debug\Ejercicio_26.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\bin\Debug\Ejercicio_26.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\bin\Debug\Ejercicio_26.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\obj\Debug\Ejercicio_26.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\obj\Debug\Ejercicio_26.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\obj\Debug\Ejercicio_26.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Ejercicio_26\obj\Debug\Ejercicio_26.pdb

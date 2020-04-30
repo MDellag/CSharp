@@ -1,0 +1,16 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\FormLlamador.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\FormLlamador.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\FormLlamador.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\CentralTelefonicaForm.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\CentralTelefonicaForm.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\CentralTelefonicaForm.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.FormLlamador.resources
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.Properties.Resources.resources
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.csproj.GenerateResource.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.csproj.CopyComplete
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\obj\Debug\FormLlamador.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\CentralitaHerencia.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\FormLlamador\bin\Debug\CentralitaHerencia.pdb

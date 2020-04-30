@@ -1,0 +1,6 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\obj\Debug\Herramientas.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\obj\Debug\Herramientas.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\bin\Debug\Herramientas.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\bin\Debug\Herramientas.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\obj\Debug\Herramientas.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\ArraysYColecciones\Herramientas\obj\Debug\Herramientas.pdb
