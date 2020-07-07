@@ -13,3 +13,18 @@ C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Cen
 C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.dll
 C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.pdb
 C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.CopyComplete
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe.config
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.exe
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralTelefonicaForm.pdb
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.dll
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.FrmMostrar.resources
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.FormLlamador.resources
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.FormMenu.resources
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.Properties.Resources.resources
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.GenerateResource.cache
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.csproj.CopyComplete
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.exe
+C:\Users\Nehl\Desktop\CSharp\Lab II\Bibliotecas\CentralTelefonica\CentralTelefonicaForm\obj\Debug\CentralTelefonicaForm.pdb
