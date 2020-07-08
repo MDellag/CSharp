@@ -1,0 +1,7 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\bin\Debug\TestExceptions.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\bin\Debug\TestExceptions.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\bin\Debug\TestExceptions.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\obj\Debug\TestExceptions.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\obj\Debug\TestExceptions.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\obj\Debug\TestExceptions.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\TestExceptions\obj\Debug\TestExceptions.pdb

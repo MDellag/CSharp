@@ -1,0 +1,10 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\bin\Debug\TestParaAplicaciones.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\bin\Debug\TestParaAplicaciones.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\bin\Debug\TestParaAplicaciones.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\obj\Debug\TestParaAplicaciones.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\obj\Debug\TestParaAplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\obj\Debug\TestParaAplicaciones.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\obj\Debug\TestParaAplicaciones.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\bin\Debug\Herramientas.dll
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\bin\Debug\Herramientas.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\TestParaAplicaciones\obj\Debug\TestParaAplicaciones.csproj.CopyComplete

@@ -1,0 +1,7 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\bin\Debug\Ejercicio_57.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\bin\Debug\Ejercicio_57.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\bin\Debug\Ejercicio_57.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\obj\Debug\Ejercicio_57.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\obj\Debug\Ejercicio_57.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\obj\Debug\Ejercicio_57.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Serializacion\Ejercicio_57\obj\Debug\Ejercicio_57.pdb

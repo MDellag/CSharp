@@ -1,0 +1,4 @@
+Prueba WriteLine
+Prueba Write 1 Prueba Write 2
+Prueba WriteLine 2 
+Probando AppendText

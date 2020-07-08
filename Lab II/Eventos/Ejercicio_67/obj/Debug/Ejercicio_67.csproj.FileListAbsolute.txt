@@ -1,0 +1,7 @@
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\bin\Debug\Ejercicio_67.exe.config
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\bin\Debug\Ejercicio_67.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\bin\Debug\Ejercicio_67.pdb
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\obj\Debug\Ejercicio_67.csprojAssemblyReference.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\obj\Debug\Ejercicio_67.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\obj\Debug\Ejercicio_67.exe
+C:\Users\Nehl\Google Drive\Dev\UTN\Season II\Programacion II\Guia Ejercicios\Eventos\Ejercicio_67\obj\Debug\Ejercicio_67.pdb
