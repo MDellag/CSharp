@@ -1,0 +1,6 @@
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\bin\Debug\CorreoException.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\bin\Debug\CorreoException.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\obj\Debug\CorreoException.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\obj\Debug\CorreoException.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\obj\Debug\CorreoException.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\CorreoException\obj\Debug\CorreoException.pdb

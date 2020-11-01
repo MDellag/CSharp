@@ -1,0 +1,9 @@
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\bin\Release\Archivos.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\bin\Release\Archivos.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\obj\Release\Archivos.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\obj\Release\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\obj\Release\Archivos.csproj.CopyComplete
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\obj\Release\Archivos.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\obj\Release\Archivos.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\bin\Release\Excepciones.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Archivos\bin\Release\Excepciones.pdb

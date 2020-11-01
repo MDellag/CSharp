@@ -1,0 +1,17 @@
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\FormCorreo.exe.config
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\FormCorreo.exe
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\FormCorreo.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.FrmPpal.resources
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.Properties.Resources.resources
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.csproj.GenerateResource.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.exe
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\CorreoException.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\Interfaces.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\CorreoException.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\Entidades.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\bin\Debug\Interfaces.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\FormCorreo\obj\Debug\FormCorreo.csproj.CopyComplete

@@ -1,0 +1,9 @@
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\bin\Release\Clases Abstractas.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\bin\Release\Clases Abstractas.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\obj\Release\ClasesAbstractas.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\obj\Release\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\obj\Release\ClasesAbstractas.csproj.CopyComplete
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\obj\Release\Clases Abstractas.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\obj\Release\Clases Abstractas.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\bin\Release\Excepciones.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Abstractas\bin\Release\Excepciones.pdb

@@ -1,0 +1,16 @@
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Entidades.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Clases Abstractas.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Clases Instanciables.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Archivos.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Debug\Archivos.pdb

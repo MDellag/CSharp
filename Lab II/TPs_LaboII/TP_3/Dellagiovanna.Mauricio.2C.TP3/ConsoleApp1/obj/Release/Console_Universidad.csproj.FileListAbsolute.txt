@@ -1,0 +1,16 @@
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\ConsoleApp1.exe.config
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\ConsoleApp1.exe
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\ConsoleApp1.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Clases Abstractas.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Clases Instanciables.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Archivos.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Clases Abstractas.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Clases Instanciables.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Archivos.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Release\Console_Universidad.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Release\Console_Universidad.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Release\Console_Universidad.csproj.CopyComplete
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Release\ConsoleApp1.exe
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\obj\Release\ConsoleApp1.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Excepciones.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\ConsoleApp1\bin\Release\Excepciones.pdb

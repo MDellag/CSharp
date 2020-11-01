@@ -1,0 +1,33 @@
+
+JORNADA: 
+CLASE:	Programacion
+DATOS DEL PROFESOR:	
+Nombre:       Juan
+Apellido:     Lopez
+DNI:          12224458
+Nacionalidad: Argentino
+Legajo:       1
+Clases del dia: Programacion - Programacion
+
+
+
+ALUMNOS DE LA CLASE: 
+Nombre:       Juan
+Apellido:     Lopez
+DNI:          12234456
+Nacionalidad: Argentino
+Legajo:       1
+CLASE QUE TOMA:   Programacion
+Estado de CUENTA:    Becado
+
+
+Nombre:       Carlos
+Apellido:     Gonzalez
+DNI:          12236456
+Nacionalidad: Argentino
+Legajo:       5
+CLASE QUE TOMA:   Programacion
+Estado de CUENTA:    AlDia
+
+
+>----------------------------------------< 

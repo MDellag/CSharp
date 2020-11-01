@@ -1,0 +1,13 @@
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Clases Instanciables.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\obj\Debug\ClasesInstanciables.csproj.CopyComplete
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\obj\Debug\Clases Instanciables.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Archivos.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Archivos.pdb
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.dll
+C:\Users\Nehl\Desktop\Programacion\tp_laboratorio_2\TP_3\Dellagiovanna.Mauricio.2C.TP3\Clases Instanciables\bin\Debug\Excepciones.pdb

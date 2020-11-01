@@ -1,0 +1,10 @@
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_1_Recuperatorio_LaboratorioII\TP_1_Recuperatorio_LaboratorioII\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_1_Recuperatorio_LaboratorioII\TP_1_Recuperatorio_LaboratorioII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_1_Recuperatorio_LaboratorioII\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_1_Recuperatorio_LaboratorioII\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_1_Recuperatorio_LaboratorioII\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP_1_Recuperatorio_LaboratorioII\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP_1_Recuperatorio_LaboratorioII\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\RecuperatoriosTP\TP1\TP_1_Recuperatorio_LaboratorioII\Entidades\obj\Debug\Entidades.pdb

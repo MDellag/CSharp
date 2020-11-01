@@ -1,0 +1,6 @@
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\Nehl\Desktop\tp_laboratorio_2\TP_4\Dellagiovanna.Mauricio.2C.TP4\Interfaces\obj\Debug\Interfaces.pdb
